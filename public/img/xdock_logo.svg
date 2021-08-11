@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 360 99" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g>
+        <rect x="12" y="12" width="75" height="75" style="fill:#8033cc;"/>
+        <g>
+            <path d="M30.75,67.5l18.75,-18.75l-18.75,-18.75m37.5,37.5l-11.25,-11.25m0,-15l11.25,-11.25" style="fill:none;stroke:#fff;stroke-width:4.5px;"/>
+            <path d="M50.25,70.5l0,-6.75m0,-29.25l0,-7.5" style="fill:none;stroke:#fff;stroke-width:4.5px;"/>
+        </g>
+    </g>
+    <rect x="12" y="12" width="75" height="75" style="fill:#8033cc;"/>
+    <g>
+        <path d="M30.75,67.5l18.75,-18.75l-18.75,-18.75m37.5,37.5l-11.25,-11.25m0,-15l11.25,-11.25" style="fill:none;stroke:#fff;stroke-width:4.5px;"/>
+        <path d="M50.25,70.5l0,-6.75m0,-29.25l0,-7.5" style="fill:none;stroke:#fff;stroke-width:4.5px;"/>
+    </g>
+    <g>
+        <path d="M113.25,70.5l18.75,-18.75l-18.75,-18.75m37.5,37.5l-11.25,-11.25m0,-15l11.25,-11.25" style="fill:none;stroke:#8033cc;stroke-width:4.5px;"/>
+        <path d="M357.75,73.5l-21.75,-21.75l21.75,-21m-29.25,42.75l0,-14.25m0,-15l0,-14.25" style="fill:none;stroke:#8033cc;stroke-width:4.5px;"/>
+        <path d="M166.34,67.66c4.22,4.219 9.943,6.59 15.91,6.59c12.418,-0 22.5,-10.082 22.5,-22.5c0,-12.418 -10.082,-22.5 -22.5,-22.5c-5.967,-0 -11.69,2.371 -15.91,6.59l0,31.82Z" style="fill:none;stroke:#8033cc;stroke-width:4.5px;"/>
+        <path d="M261.75,51.75c0,12.418 -10.082,22.5 -22.5,22.5c-12.418,-0 -22.5,-10.082 -22.5,-22.5c0,-12.418 10.082,-22.5 22.5,-22.5c12.418,-0 22.5,10.082 22.5,22.5Z" style="fill:none;stroke:#8033cc;stroke-width:4.5px;"/>
+        <path d="M312,35.84c-4.202,-4.219 -9.901,-6.59 -15.844,-6.59c-12.366,0 -22.406,10.082 -22.406,22.5c0,12.418 10.04,22.5 22.406,22.5c5.943,0 11.642,-2.371 15.844,-6.59" style="fill:none;stroke:#8033cc;stroke-width:4.5px;"/>
+    </g>
+</svg>
