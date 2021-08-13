@@ -43,10 +43,6 @@ const Main = styled("main")`
     @media(max-width: 1000px){
       position: absolute;
     }
-    & > circle {
-      //mix-blend-mode: color-burn ;
-      //opacity: 0.5;
-    }
   }
   & .social{
     display: flex;
@@ -61,7 +57,6 @@ const Main = styled("main")`
       margin: 0;
       margin-right: 24px;
       height: 24px;
-      
     }
   }
   hr {
